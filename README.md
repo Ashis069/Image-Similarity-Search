@@ -30,8 +30,7 @@ This approach is useful for:
 * Python
 * PyTorch
 * Torchvision
-* OpenCV
-* NumPy
+* streamlit
 * Pretrained **VGG16 CNN**
 
 ---
